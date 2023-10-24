@@ -1,6 +1,8 @@
 # Welcome to my GitHub profile!
 
+
 <!--START_SECTION:waka-->
+SHOW_LINES_OF_CODE: True
 <!--END_SECTION:waka-->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
