@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-
+[![Coding time](https://wakatime.com/badge/user/018b60f9-2a8e-4cd2-b8a8-ab46a113ab60.svg)](https://wakatime.com/@018b60f9-2a8e-4cd2-b8a8-ab46a113ab60)
 <!--END_SECTION:waka-->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
