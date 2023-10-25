@@ -1,6 +1,7 @@
 # Welcome
 
-Hey, my name is Mareike, I'm living in Hamburg and currently I am paticipating the Web-Develeopment bootcamp at neue fische!
+Hey, my name is Mareike, I'm living in Hamburg and currently I am paticipating the Web Develeopment bootcamp at neue fische!
+You can follow my progress here.
 
 <!--START_SECTION:waka-->
 
@@ -16,4 +17,6 @@ Other   0 secs          >>-----------------------   07.32 %
 <!--END_SECTION:waka-->
 
 ## Contact me
+
+
 
