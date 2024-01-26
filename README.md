@@ -6,17 +6,17 @@ You can follow my progress here.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 October 2023 - To: 23 January 2024
+From: 23 October 2023 - To: 25 January 2024
 
-Total Time: 260 hrs 42 mins
+Total Time: 270 hrs 59 mins
 
-JavaScript   157 hrs 18 mins >>>>>>>>>>>>>>>----------   60.16 %
-CSS          62 hrs 18 mins  >>>>>>-------------------   23.83 %
-HTML         27 hrs 1 min    >>>----------------------   10.33 %
-Markdown     11 hrs 34 mins  >------------------------   04.43 %
-CSV          48 mins         -------------------------   00.31 %
-Bash         47 mins         -------------------------   00.30 %
-Other        45 mins         -------------------------   00.29 %
+JavaScript   167 hrs         >>>>>>>>>>>>>>>----------   61.45 %
+CSS          62 hrs 34 mins  >>>>>>-------------------   23.03 %
+HTML         27 hrs 2 mins   >>-----------------------   09.95 %
+Markdown     11 hrs 36 mins  >------------------------   04.27 %
+CSV          1 hr 4 mins     -------------------------   00.39 %
+Bash         47 mins         -------------------------   00.29 %
+Other        45 mins         -------------------------   00.28 %
 ```
 
 <!--END_SECTION:waka-->
