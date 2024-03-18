@@ -6,7 +6,7 @@ You can follow my progress here.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 October 2023 - To: 15 March 2024
+From: 23 October 2023 - To: 16 March 2024
 
 Total Time: 419 hrs 21 mins
 
