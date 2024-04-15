@@ -1,4 +1,4 @@
-name: Daily API Request
+name: API every 5 minutes
 on:
   schedule:
     # Scheduled at 3 AM UTC. Change '3' to another hour if you need a different timezone
