@@ -7,18 +7,12 @@ jobs:
   deployment:
     runs-on: ubuntu-latest
     steps:
-    - name: Deploy Stage
+    - name: GET request
+      id: getrequest
       uses: fjogeleit/http-request-action@v1
       with:
         url: 'https://community-app-topaz.vercel.app/api/events/'
         method: 'GET'
     - name: Show Response
       run: |
-        echo ${{ steps.myRequest.outputs.response }}
-
-
-
-
-
-
-
+        echo ${{ steps.getrequest.outputs.response }}
