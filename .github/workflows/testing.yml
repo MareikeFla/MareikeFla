@@ -15,4 +15,4 @@ jobs:
         method: 'GET'
     - name: Show Response
       run: |
-        echo ${{ steps.getrequest.outputs.response }}
+        echo ${{ steps.getrequest.outputs.response[0] }}
