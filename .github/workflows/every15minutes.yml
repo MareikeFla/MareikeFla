@@ -15,4 +15,4 @@ jobs:
     - name: Show Response
       run: |
         echo ${{ steps.getrequest.outputs.response[0] }}
-            
+          
