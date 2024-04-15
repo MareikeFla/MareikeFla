@@ -1,0 +1,24 @@
+name: Daily API Request
+on:
+  schedule:
+    # Scheduled at 3 AM UTC. Change '3' to another hour if you need a different timezone
+    - cron: '*/5 * * * *'
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy Stage
+      uses: fjogeleit/http-request-action@v1
+      with:
+        url: 'https://community-app-topaz.vercel.app/api/events/'
+        method: 'GET'
+    - name: Show Response
+      run: |
+        echo ${{ steps.myRequest.outputs.response }}
+
+
+
+
+
+
+
