@@ -1,4 +1,4 @@
-name: API every 5 minutes
+name: HTTP Request Action
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -15,3 +15,4 @@ jobs:
     - name: Show Response
       run: |
         echo ${{ steps.getrequest.outputs.response[0] }}
+            
