@@ -3,7 +3,8 @@
 Hey, my name is Mareike, I'm living in Hamburg and currently I am paticipating the Web Develeopment bootcamp at neue fische!
 You can follow my progress here.
 
-![Codewars](https://github.r2v.ch/codewars?user=MareikeFla)
+![Codewars](https://github.r2v.ch/codewars?user=MareikeFla&top_languages=true&hide_clan=true)
+[![Codewars](https://github.r2v.ch/codewars?user=MareikeFla)](LINK)
 
 <!--START_SECTION:waka-->
 
